@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @imjordanithink
+- 👋 Hi, I’m @jsenk.cc
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
 - 📫 E-Mail me @ oq066776@gmail.com
 
 <!---
